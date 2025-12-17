@@ -107,7 +107,7 @@ export default function ChatRoom() {
             type="text"
             value={message}
             onChange={(e) => setMessage(e.target.value)}
-            placeholder="Ketik pesan..."
+            placeholder="Escribe un mensaje..."
             className="flex-1 min-w-0 p-2 rounded-lg bg-zinc-700 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
           <button
