@@ -73,7 +73,7 @@ function App() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         <div className="hero grid md:grid-cols-2 items-center xl:gap-0 gap-6 grid-cols-1">
-          <div className="animate__animated animate__fadeInUp animate__delay-1s">
+          <div className="animate__animated animate__fadeInUp animate__delay-4s">
             <div className="flex items-center gap-3 mb-6 bg bg-[#0000004d] w-fit p-3 rounded-2xl">
               <img src="./assets/DRN2.png" className="w-15" />
               <q>O lo intentas hoy, o te arrepientes mañana.</q>
@@ -103,7 +103,7 @@ function App() {
             </div>
 
           </div>
-          <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-2s flex justify-center">
+          <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-5s flex justify-center">
             <ProfileCard
               name="Darien Aguilar"
               title="Web Developer"
