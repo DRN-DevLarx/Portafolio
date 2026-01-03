@@ -1,61 +1,52 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
+# Portafolio Web — [Darien Aguilar Q/ DRN-DevLarx]
 
-Selamat datang di portofolio web pribadi saya! 🌐  
-Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
+¡Bienvenido a mi portafolio web personal! 🌐  
+Creado con React + Vite, este es un showcase de proyectos, habilidades y trabajos que quiero compartir.
 
-##  Struktur Project
+##  Estructura del Proyecto
 
-- `public/` — file statis (favicon, assets, dsb.)  
-- `src/` — code utama React (komponen, utilitas, dsb.)  
-- `index.html` — entry point halaman web  
-- `package.json` & `package-lock.json` — manajemen dependencies dan script  
-- `vite.config.js` — konfigurasi build dan dev server Vite  
-- `eslint.config.js` — aturan linting agar kodenya tetap bersih dan konsisten  
+- `public/` — archivos estáticos (favicon, assets, etc.)  
+- `src/` — código principal de React (componentes, utilidades, etc.)  
+- `index.html` — punto de entrada de la página web  
+- `package.json` & `package-lock.json` — gestión de dependencias y scripts  
+- `vite.config.js` — configuración de build y servidor de desarrollo de Vite  
+- `eslint.config.js` — reglas de linting para mantener el código limpio y consistente  
 
-##  Fitur Utama
+##  Características Principales
 
-- Dibangun dengan **React + Vite** — ringan, cepat reload, dan performa build optimal  
-- **ESLint** telah terkonfigurasi agar coding style tetap rapi  
-- Struktur modular dan siap dikembangkan—bisa ditambahkan halaman “About”, “Projects”, dsb.
+- Construido con **React + Vite** — ligero, recarga rápida y rendimiento de build óptimo  
+- **ESLint** configurado para mantener el estilo de código ordenado  
+- Estructura modular y lista para desarrollar—puedes agregar páginas "Acerca de", "Proyectos", etc.
 
-##  Cara Jalankan
+##  Cómo Ejecutarlo
 
-1. Clone repository ini:
+1. Clona este repositorio:
 ```bash
-git clone https://github.com/rissss21/portofolio.git
+git clone https://github.com/DRN-DevLarx/portafolio.git
 cd portofolio
-````
+```
 
-2. Install dependencies:
+2. Instala las dependencias:
 ```bash
 npm install
-````
+```
 
-3. Jalankan server lokal dengan hot reload:
+3. Ejecuta el servidor local con hot reload:
 ```bash
 npm run dev
-````
+```
 
-4. Buat versi production:
+4. Crea la versión de producción:
 ```bash
 npm run build
-````
+```
 
-## &#x20;Quick Preview
+##  Vista Previa Rápida
 
-Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://username.github.io/portofolio/)
+Si ya está desplegado (por ejemplo: GitHub Pages, Netlify, Vercel), puedes agregar el enlace de despliegue aquí, por ejemplo:
+[🔗 Ver versión en vivo](https://username.github.io/portofolio/)
 
-## Tentang Saya
+## Sobre Mí
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
-Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
-
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
-* **Instagram (opsional):** @farisedrikprayoga
-
----
-
-
-[1]: https://github.com/rissss21/portofolio "GitHub - rissss21/portofolio"
+¡Hola, soy Darien Aguilar Q (usuario de GitHub: `DRN-DevLarx`)!
+Soy un Desarrollador que disfruta creando aplicaciones web ligeras con diseños modernos y alto rendimiento. Solo desplázate por mis proyectos, ¡y no dudes en contactarme si tienes alguna pregunta!
